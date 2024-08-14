@@ -2,19 +2,19 @@
 
 ### Project progress
 
-**Data Cleaning**: [██████████] 100% ✅ Done  
-**EDA** (Exploratory Data Analysis): [███████........] 60% (📍 We are here!)  
-**Machine Learning**: [░░░░░░░░░░░░] Planned  
-**Streamlit**: [░░░░░░░░░░░░] Planned  
-**Results presentation**: [░░░░░░░░░░░░] Planned
+**Data Cleaning**: [████████]  Done ✅
+**EDA** (Exploratory Data Analysis): [███████60%.....] Ongoing ⏳
+**Machine Learning**: [.......Planned......]   
+**Streamlit**: [.......Planned......]  
+**Results presentation**: [.......Planned......]
 
 ### Summary
 The project focuses on the healthcare sector, utilizing a 2020 dataset extracted from the BRFSS (Behavioral Risk Factor Surveillance System) in the US. It involves analyzing responses to a questionnaire that provides information on lifestyle habits and the prevalence of pathologies taking into account the sociodemographic context of the respondents.
 
-### Keywords:
+### Keywords
 BRFSS 2020, health data analysis, pathology prediction, risk factor identification, sociodemographic factors
 
-### Contributions:
+### Contributions
 Data selection and some visualization ideas were developed in collaboration with Arvind and Julie, whom I thank. EDA's coding, the machine learning parts in Python and Streamlit were carried out individually.
 
 ### Objectives
@@ -22,7 +22,7 @@ Data selection and some visualization ideas were developed in collaboration with
 - Identify the main risk factors associated with different pathologies.
 - Provide an interactive tool via Streamlit to explore predictions and analyses.
 
-### Results 
+### Results
 
 ### Workflow
 
