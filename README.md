@@ -2,14 +2,14 @@
 
 ### Project progress
 
-**Data Cleaning**: [██████████] 100% ✅ Done <b>
-**EDA** (Exploratory Data Analysis): [███████........] 60% (📍 We are here!) <b> 
-**Machine Learning**: [░░░░░░░░░░░░] Planned <b>
-**Streamlit**: [░░░░░░░░░░░░] Planned  <b>
-**Results Presentation**: [░░░░░░░░░░░░] Planned
+**Data Cleaning**: [██████████] 100% ✅ Done  
+**EDA** (Exploratory Data Analysis): [███████........] 60% (📍 We are here!)  
+**Machine Learning**: [░░░░░░░░░░░░] Planned  
+**Streamlit**: [░░░░░░░░░░░░] Planned  
+**Results presentation**: [░░░░░░░░░░░░] Planned
 
 ### Summary
-The project focuses on the healthcare sector, utilizing a 2020 dataset extracted from the BRFSS, the Behavioral Risk Factor Surveillance System in the United States. It involves analyzing responses to a questionnaire that provides information on lifestyle habits and the prevalence of pathologies, taking into account the sociodemographic context of the respondents.
+The project focuses on the healthcare sector, utilizing a 2020 dataset extracted from the BRFSS (Behavioral Risk Factor Surveillance System) in the US. It involves analyzing responses to a questionnaire that provides information on lifestyle habits and the prevalence of pathologies taking into account the sociodemographic context of the respondents.
 
 ### Keywords:
 BRFSS 2020, health data analysis, pathology prediction, risk factor identification, sociodemographic factors
