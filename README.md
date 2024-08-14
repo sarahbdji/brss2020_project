@@ -2,11 +2,11 @@
 
 ### Project progress
 
-**Data Cleaning**: [████████] Done ✅  
-**EDA** (Exploratory Data Analysis): [███████60%.....] Ongoing ⏳  
-**Machine Learning**: [.......Planned......]  
-**Streamlit**: [.......Planned......]  
-**Results presentation**: [.......Planned......]
+Data Cleaning: [████████] Done ✅  
+EDA(Exploratory Data Analysis): [███████60%.....] Ongoing   
+Machine Learning: [.......Planned......]  
+Streamlit: [.......Planned......]  
+Results presentation: [.......Planned......]
 
 ### Summary
 The project focuses on the healthcare sector, utilizing a 2020 dataset extracted from the BRFSS (Behavioral Risk Factor Surveillance System) in the US. It involves analyzing responses to a questionnaire that provides information on lifestyle habits and the prevalence of pathologies taking into account the sociodemographic context of the respondents.
