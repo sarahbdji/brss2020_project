@@ -3,7 +3,7 @@
 ### 📃 Project progress
 
 - Data Cleaning: [████████] Done ✅  
-- EDA(Exploratory Data Analysis): [███████60%.....] Ongoing   
+- EDA(Exploratory Data Analysis): [███████60%.....] Ongoing 👩🏻‍💻
 - Machine Learning: [.......Planned......]  
 - Streamlit: [.......Planned......]  
 - Results presentation: [.......Planned......]
